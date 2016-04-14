@@ -1,4 +1,4 @@
-# NoCon-Users
+# NoCon-Database
 
 This is a set of classes used to support database access
 for the NoCon framework but could theoretically be used in other 
